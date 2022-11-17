@@ -30,7 +30,8 @@ EXECUTE THE RUN:
 
 DATAS SEND FROM NODE UI TO MIT APP 
 
-![image](https://user-images.githubusercontent.com/115462847/202411442-4bd0602c-2083-40f3-856a-dfda9050f99f.png)
+![image](https://user-images.githubusercontent.com/115462847/202412380-b1d05c1d-f444-459b-9a12-6ace35fc2164.png)
+
 
 
 
