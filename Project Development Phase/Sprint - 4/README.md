@@ -1,6 +1,10 @@
 COPYING CREDENTIALS FOR API AND URL:
-  
+ 
+ 
   ![image](https://user-images.githubusercontent.com/115462847/202408536-684c3bac-07a7-44c2-a7a3-35f448c51b76.png)
+
+
+
 
 PROGRAM FOR ACCESSING APIs OF TTS SERVICE:
 
@@ -15,14 +19,20 @@ text_to_speech.synthesize( 'Take Crocin Now',
 voice='en-US_AllisonV3Voice', accept='audio/wav'
 ).get_result().content)
 
+
+
+
 EXECUTE THE RUN:
 
 ![image](https://user-images.githubusercontent.com/115462847/202409032-36aec95b-d405-441d-ae65-34c9d5c2f407.png)
 
 
+
 DATAS SEND FROM NODE UI TO MIT APP 
 
 ![image](https://user-images.githubusercontent.com/115462847/202411442-4bd0602c-2083-40f3-856a-dfda9050f99f.png)
+
+
 
 TEXT TO SPEECH - IN MIT APP:
 
